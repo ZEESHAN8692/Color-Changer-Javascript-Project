@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+.heading{
+    text-align: center;
+    text-decoration: underline;
+}
 .main{
     padding-left: 40px;
     display: flex;
@@ -17,6 +21,15 @@
     border: 1px solid black;
     cursor: pointer;
 }
+#darkorange{background-color: darkorange;}
+#tomato{background-color: tomato;}
+#darkviolet{background-color: darkviolet;}
+#crimson{background-color: crimson;}
+#cyan{background-color: cyan;}
+#chocolate{background-color: chocolate;}
+#lightgreen{background-color: lightgreen;}
+#pink{background-color: pink;}
+#greenyellow{background-color: greenyellow;}
 #white{background-color: white;}
 #red{background-color: red;}
 #yellow{background-color: yellow;}

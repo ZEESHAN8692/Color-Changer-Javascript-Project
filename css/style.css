@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    padding-left: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding-top: 40px;
+}
+.button{
+    width: 120px;
+    height: 120px;
+    border-radius: 0px 30px 0px 30px ;
+    border: 1px solid black;
+    cursor: pointer;
+}
+#white{background-color: white;}
+#red{background-color: red;}
+#yellow{background-color: yellow;}
+#purple{background-color: purple;}
+#green{background-color: green;}
+#blue{background-color: blue;}
+#grey{border-color: gray;}
+#orangered{background-color: orangered;}
+#chartreuse{background-color: chartreuse;}
+#gold{background-color: gold;}
